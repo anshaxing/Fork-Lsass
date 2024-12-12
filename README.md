@@ -1,3 +1,4 @@
+参考文章https://www.deepinstinct.com/blog/dirty-vanity-a-new-approach-to-code-injection-edr-bypass
 Dump出来的就需要之前那个py脚本去解密就行.(查看上一个dump脚本)
 
 Defender
